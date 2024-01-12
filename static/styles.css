@@ -1,0 +1,30 @@
+/* styles.css */
+
+/* Body styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa; /* Light gray background */
+}
+
+/* Header styles */
+header {
+    padding: 20px;
+}
+
+/* Navigation bar styles */
+nav {
+    margin-bottom: 20px;
+}
+
+/* Section styles */
+section {
+    padding: 20px;
+}
+
+/* Footer styles */
+footer {
+    background-color: #28a745; /* Green background */
+    color: #fff; /* White text */
+    padding: 10px;
+    text-align: center;
+}
