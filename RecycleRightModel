@@ -1,0 +1,4 @@
+git clone https://github.com/joeymalvinni/RecycleRight.git
+cd RecycleRight
+npm install
+pip install -r requirements.txt
